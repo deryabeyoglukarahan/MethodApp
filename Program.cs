@@ -34,6 +34,6 @@ Console.WriteLine("İşlem Sonucu: " + result2);
 //Parametre olarak isim ve soyisim bilgilerini alıp " Hoş Geldiniz {isim} {soyisim} " şeklinde ekrana bassın.
 static void NameSurname(string name, string surname)
 {
-    Console.WriteLine("İsim: " + name + "\n" + "Soyisim: " + surname);
+    Console.WriteLine("Hoş Geldiniz " + name + " " + surname);
 }
 NameSurname("Derya", "Karahan");
