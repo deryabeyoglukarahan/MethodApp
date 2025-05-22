@@ -1,0 +1,14 @@
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/MethodApp/bin/Debug/net8.0/MethodApp
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/MethodApp/bin/Debug/net8.0/MethodApp.deps.json
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/MethodApp/bin/Debug/net8.0/MethodApp.runtimeconfig.json
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/MethodApp/bin/Debug/net8.0/MethodApp.dll
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/MethodApp/bin/Debug/net8.0/MethodApp.pdb
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/MethodApp/obj/Debug/net8.0/MethodApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/MethodApp/obj/Debug/net8.0/MethodApp.AssemblyInfoInputs.cache
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/MethodApp/obj/Debug/net8.0/MethodApp.AssemblyInfo.cs
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/MethodApp/obj/Debug/net8.0/MethodApp.csproj.CoreCompileInputs.cache
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/MethodApp/obj/Debug/net8.0/MethodApp.dll
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/MethodApp/obj/Debug/net8.0/refint/MethodApp.dll
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/MethodApp/obj/Debug/net8.0/MethodApp.pdb
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/MethodApp/obj/Debug/net8.0/MethodApp.genruntimeconfig.cache
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/MethodApp/obj/Debug/net8.0/ref/MethodApp.dll
